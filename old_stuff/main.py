@@ -1,3 +1,0 @@
-import vigenereDictionaryHacker
-
-vigenereDictionaryHacker.main()
